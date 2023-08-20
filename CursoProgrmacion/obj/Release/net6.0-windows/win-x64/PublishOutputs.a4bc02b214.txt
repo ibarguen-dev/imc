@@ -1,0 +1,2 @@
+D:\Programacion\c#\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\win-x64\app.publish\IMC.pdb
+D:\Programacion\c#\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\win-x64\app.publish\IMC.exe

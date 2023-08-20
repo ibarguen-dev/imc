@@ -1,0 +1,5 @@
+C:\Users\juane\source\repos\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\CursoProgrmacion.exe
+C:\Users\juane\source\repos\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\CursoProgrmacion.dll
+C:\Users\juane\source\repos\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\CursoProgrmacion.deps.json
+C:\Users\juane\source\repos\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\CursoProgrmacion.runtimeconfig.json
+C:\Users\juane\source\repos\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\CursoProgrmacion.pdb

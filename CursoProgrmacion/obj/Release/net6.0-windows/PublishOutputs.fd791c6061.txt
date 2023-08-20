@@ -1,0 +1,5 @@
+D:\Programacion\c#\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\IMC.exe
+D:\Programacion\c#\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\IMC.dll
+D:\Programacion\c#\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\IMC.deps.json
+D:\Programacion\c#\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\IMC.runtimeconfig.json
+D:\Programacion\c#\CursoProgrmacion\CursoProgrmacion\bin\Release\net6.0-windows\app.publish\IMC.pdb
